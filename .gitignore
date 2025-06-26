@@ -196,3 +196,4 @@ desktop.ini
 .DS_Store 
 *.ini 
 *.ini 
+**/desktop.ini
