@@ -194,6 +194,4 @@ cython_debug/
 .cursorindexingignore
 desktop.ini 
 .DS_Store 
-*.ini 
-*.ini 
-**/desktop.ini
+desktop.ini
