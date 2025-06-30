@@ -1,6 +1,6 @@
 # Preditor-Aprov-Cred
 
-Se trata de uma aplicação de regressão linear para classificação de aprovação de crédito. 
+Se trata de uma aplicação de regressão logística para classificação de aprovação de crédito. 
 
 ## Metodologia
 
